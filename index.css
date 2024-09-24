@@ -136,7 +136,7 @@ body:-webkit-scrollbar() {
     width: 100%;
     transition: bottom 0.3s ease;
 }
-.name span {
+.name a {
     color: white; /* Neon Green */
     font-size: 12px;
     font-family: Poppins;
